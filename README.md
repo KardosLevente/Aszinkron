@@ -392,31 +392,3 @@ async function fuggveny() {
   }
 }
 ```
-
----
-
-## 20.7 Feladatok
-
-1. **Időzített üzenetek**
-   - Írj egy aszinkron függvényt, ami három különböző időzítéssel (1, 2, és 3 másodperc) ír ki egy-egy üzenetet a konzolra.
-
-2. **Véletlenszerű szám generálás**
-   - Írj egy aszinkron függvényt, ami egy véletlenszerű idő után (1-5 másodperc) generál egy véletlen számot (1-100) és jelenítse meg.
-
-3. **Gomb események**
-   - Hozz létre egy egyszerű HTML oldalt gombbal, ahol a gombra kattintáskor aszinkron módon történik valami (pl. üzenet megjelenítése 1 másodperc késleltetéssel).
-
-4. **Promise láncolás**
-   - Írj egy Promise-t használó függvényt, ami három aszinkron műveletet hajt végre egymás után, mindegyik lépés után egy üzenetet jelenít meg.
-
-5. **Virtuális adatbázis**
-   - Készíts egy alkalmazást, amely aszinkron módon kezeli és frissíti az adatokat egy virtuális adatbázisban (pl. tömb, objektum).
-
-6. **Regisztrációs folyamat**
-   - Készíts egy felhasználói regisztrációs folyamatot, amely aszinkron módon kezeli az adatok ellenőrzését és tárolását.
-
-7. **Bejelentkezési rendszer**
-   - Implementálj egy felhasználói bejelentkezési rendszert, amely aszinkron módon ellenőrzi a felhasználói azonosítókat.
-
-8. **Kereső alkalmazás**
-   - Hozz létre egy olyan alkalmazást, amely aszinkron módon keres egy adatforrásban, és jeleníti meg az eredményeket a felhasználónak.
